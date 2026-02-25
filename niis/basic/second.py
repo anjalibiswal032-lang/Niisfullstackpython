@@ -1,0 +1,6 @@
+# Hours to Seconds
+
+print("enter hours")
+h=int(input())
+sec=h*3600
+print("second=",sec)

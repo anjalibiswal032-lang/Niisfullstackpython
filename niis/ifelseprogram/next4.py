@@ -8,12 +8,12 @@ no2=int(input("enter second number:"))
 no3=int(input("enter three number"))
 if no1>=no2:
   if no1>=no3:
-	 print("first number is biger",no1)
+    print("first number is biger",no1)
   else:
-	 print("third number is biger",no3)
+    print("third number is biger",no3)
 else:
   if no2>=no3:
-	 print("second no is biger",no2)
+    print("second no is biger",no2)
   else:
-     print("third no is biger",no3)
+    print("third no is biger",no3)
 
